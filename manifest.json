@@ -1,6 +1,6 @@
 {
-    "name": "prototype",
-    "short_name": "prototype",
+    "name": "ctviewer",
+    "short_name": "ctviewer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
